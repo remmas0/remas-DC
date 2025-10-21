@@ -33,8 +33,8 @@ An LCD screen displays the current movement during operation.
 
 ## 🧱 Simulation
 You can view and test the full project on Tinkercad:  
-👉 [**Fantabulous Krunk-Duup - Tinkercad Simulation**](PUT-YOUR-TINKERCAD-LINK-HERE)
-👉 [**Open Tinkercad Simulation**](Fantabulous Krunk-Duup - Tinkercad.html)
+| ![Setup](Fantabulous Krunk-Duup - Tinkercad.html)
+
 
   
 - Motors powered by a 9V battery  
