@@ -27,13 +27,16 @@ An LCD screen displays the current movement during operation.
 | ![Forward](p3.png) | Moving Forward |
 | ![Backward](p2.png) | Moving Backward |
 | ![Complete](p1.png) | Routine Complete |
-| ![Setup](DCtaske.jpg) | Project Setup |
+
+
 
 ---
 
 ## 🧱 Simulation
 You can view and test the full project on Tinkercad:  
-| ![Setup]([Fantabulous Krunk-Duup - Tinkercad.html](https://www.tinkercad.com/things/c8GN9hXzNpB-fantabulous-krunk-duup?sharecode=ug78s6vAJEkE-gQVWrzU4HTX_-lwFnJ-8xEj1_2d4hQ))
+[Tinkercad Project Link](https://www.tinkercad.com/things/c8GN9hXzNpB-fantabulous-krunk-duup?sharecode=ug78s6vAJEkE-gQVWrzU4HTX_-lwFnJ-8xEj1_2d4hQ)
+
+
 
 
   
