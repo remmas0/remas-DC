@@ -5,7 +5,7 @@ I worked on controlling two DC motors using an L293D motor driver and an Arduino
 The system performs the following movements:
 1. Forward for 30 seconds  
 2. Backward for 60 seconds  
-3. Alternates right and left for 1 minute  
+3.  Alternates  right and left for 1 minute  
 
 An LCD screen displays the current movement during operation.
 
@@ -26,7 +26,10 @@ An LCD screen displays the current movement during operation.
 |:--:|:--:|
 | ![Forward](p3.png) | Moving Forward |
 | ![Backward](p2.png) | Moving Backward |
+| ![ Alternates right](left.png) | Moving Forward |
+| ![ Alternates left](right.png) | Moving Forward |
 | ![Complete](p1.png) | Routine Complete |
+
 
 
 
